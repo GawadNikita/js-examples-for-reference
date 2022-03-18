@@ -1,0 +1,8 @@
+{
+  "name": "javascript-rferct",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "material": "^0.4.3"
+  }
+}
