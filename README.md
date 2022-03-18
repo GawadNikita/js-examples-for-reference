@@ -1,3 +1,3 @@
 # js-examples-for-reference
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/print-n-odd-numbers-by8fnu)
+[View on StackBlitz ⚡️](https://js-examples-for-reference.stackblitz.io/)
